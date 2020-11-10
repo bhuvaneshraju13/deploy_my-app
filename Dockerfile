@@ -4,3 +4,4 @@ COPY target/*.war /usr/local/tomcat/webapps/
 
 #deployed in docker successfully
 #deployed in test server
+#deployed test server in the Docker
