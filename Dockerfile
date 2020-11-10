@@ -3,3 +3,4 @@ FROM tomcat:8
 COPY target/*.war /usr/local/tomcat/webapps/
 
 #deployed in docker successfully
+#image deployed on server
